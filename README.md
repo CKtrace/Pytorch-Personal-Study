@@ -5,8 +5,8 @@
 ## Contents
 |Chapter No|Title|
 | :----: | ---- |
-|Chapter 1|[Pytorch_Model_Search](https://github.com/CKtrace/Pytorch-Personal-Study/tree/main/Pytorch_Model_Search)|
-|Chapter 2|[Tensor_Structure](https://github.com/CKtrace/Pytorch-Personal-Study/tree/main/Tensor_Structure)|
+|Chapter 1|[Pytorch Model Search](https://github.com/CKtrace/Pytorch-Personal-Study/tree/main/Pytorch_Model_Search)|
+|Chapter 2|[Tensor Structure](https://github.com/CKtrace/Pytorch-Personal-Study/tree/main/Tensor_Structure)|
 |Chapter 3|TBU|
 |Chapter 4|TBU|
 |Chapter 5|TBU|
