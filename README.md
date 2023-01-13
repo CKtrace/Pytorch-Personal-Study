@@ -13,7 +13,7 @@
 |Chapter 4|[Learning Method](https://github.com/CKtrace/Pytorch-Personal-Study/tree/main/Learning_Method)|
 |Chapter 5|[Pytorch Neural Network](https://github.com/CKtrace/Pytorch-Personal-Study/tree/main/Pytorch_Neural_Network)|
 |Chapter 6|[Fully Connected Network Image Learning](https://github.com/CKtrace/Pytorch-Personal-Study/tree/main/FCN_Image_Learning)|
-|Chapter 7|TBU|
+|Chapter 7|[Convolutional Nueral Network](https://github.com/CKtrace/Pytorch-Personal-Study/tree/main/CNN_Model_Building)|
 |Chapter 8|TBU|
 |Chapter 9|TBU|
 |Chapter 10|TBU|
